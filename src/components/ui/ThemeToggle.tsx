@@ -20,7 +20,7 @@ export default function ThemeToggle() {
       <span style={{
         position: "absolute", top: "2px",
 
-        left: isDark ? "2px" : "22px",
+        left: isDark ? "22px" : "2px",
         width: "16px", height: "16px", borderRadius: "50%",
         background: "var(--accent)",
 

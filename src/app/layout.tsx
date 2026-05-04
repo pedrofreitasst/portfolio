@@ -4,7 +4,7 @@ import { ThemeProvider } from "@/context/ThemeContext";
 import Navbar from "@/components/nav/Navbar";
 
 export const metadata: Metadata = {
-  title: "Pedro Freitast",
+  title: "Pedro de Freitas",
   description: "Portfolio de Pedro Freitas. Dev fullstack · AI optimization · Graphic design · Rio de Janeiro",
   openGraph: {
     title: "Pedro Freitas",

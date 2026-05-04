@@ -6,7 +6,7 @@ export const t = {
 
   // ── HERO ──────────────────────────────────────────
   hero_available: {
-    PT: "O futuro está te chama, aggarre-o.",
+    PT: "O futuro te chama, aggarre-o.",
     EN: "The Future is reaching out, grab it.",
     ZH: "未来就在眼前，抓住它吧。",
   },
